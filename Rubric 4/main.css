@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container{
+    width:960px;
+    margin:0 auto;
+    border:#000000 double;
+}
+
+header{
+    height:80px;
+    border-bottom:#000000 double;
+	padding-top: 10px;
+	background-color: cadetblue;
+}
+
+aside{
+    width:150px;
+    float:left;
+    border-right: #0000000 double;
+    min-height:400px;
+	background-color:antiquewhite;
+}
+
+section{
+    width:800px;
+    float:left;
+    min-height:400px;
+	background-color: lightcyan;
+	padding-left: 10px;
+}
+
+footer{
+    height:50px;
+    clear:both;
+    border-top:#0000000 double;
+	padding-top: 20px;
+	background-color: cadetblue;
+}
